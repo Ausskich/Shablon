@@ -5,3 +5,7 @@ body{
 nav{
     display: flex;
 }
+
+.header-nav-item{
+    color: #000;
+}
